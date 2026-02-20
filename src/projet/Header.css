@@ -1,0 +1,17 @@
+.main-header {
+    display: flex;               /* Active Flexbox */
+    justify-content: center;    /* Centre horizontalement */
+    align-items: center;        /* Centre verticalement */
+    height: 100px;              /* Hauteur du header */
+    background-color: #f8f9fa;  /* Couleur de fond légère */
+    margin-bottom: 20px;
+    /* border-bottom: 2px solid #2d2da1; Rappel du bleu de ton bouton */
+}
+
+.main-header h1 {
+    margin: 0;
+    font-size: 1.8rem;
+    color: #2c3e50;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
